@@ -28,4 +28,4 @@ Mini API REST para gestionar clientes (Crear, Listar, Editar, Eliminar) usando:
 ---
 
 ## Capturas
-
+![Listado en Swagger]("docs/cap 1.png")
