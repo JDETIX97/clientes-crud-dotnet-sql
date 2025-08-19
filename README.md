@@ -28,5 +28,4 @@ Mini API REST para gestionar clientes (Crear, Listar, Editar, Eliminar) usando:
 ---
 
 ## Capturas
-<img width="1472" height="742" alt="image" src="https://github.com/user-attachments/assets/4d22e776-8803-4ece-9119-638c93da554b" />
 

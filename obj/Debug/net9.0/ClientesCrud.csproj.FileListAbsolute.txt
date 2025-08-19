@@ -163,3 +163,4 @@ C:\Users\jdominguez\ProyectosPortafolio\ClientesCrud\obj\Debug\net9.0\ref\Client
 C:\Users\jdominguez\ProyectosPortafolio\ClientesCrud\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\jdominguez\ProyectosPortafolio\ClientesCrud\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\jdominguez\ProyectosPortafolio\ClientesCrud\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jdominguez\ProyectosPortafolio\ClientesCrud\obj\Debug\net9.0\ClientesCrud.sourcelink.json
